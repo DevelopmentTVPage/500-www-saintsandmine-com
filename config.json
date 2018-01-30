@@ -1,0 +1,15 @@
+{
+    "title": "Marge",
+    "baseURL": "https:\/\/www.saintsandmine.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759047",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "saintsandmine.com"
+    }
+}
